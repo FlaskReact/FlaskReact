@@ -1,6 +1,6 @@
 # Flask-React
 
-Flask-React is a batteries included full stack Single Page App (SPA) meta-framework for Python and JavaScript based on the [Flask](http://flask.pocoo.org) and [React](http://reactjs.org) libraries.  
+Flask-React is the missing batteries included full stack Single Page App (SPA) meta-framework for Python and JavaScript based on the [Flask](http://flask.pocoo.org) and [React](http://reactjs.org) libraries.  
 
 There are two components: 
 
@@ -44,9 +44,9 @@ There are two components:
 | Data loading                    | [React JSON API](https://github.com/FlaskReact/react-jsonapi) |
 | Document head manager           | [React Helmet](https://github.com/nfl/react-helmet) |
 | CSS modules                     | [babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) |
+| Styled UI components            | [React Bootstrap](https://react-bootstrap.github.io/), [Material UI](https://material-ui.com/) |
 | Testing                         | [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/), [Sinon](https://sinonjs.org/), [Enzyme](https://enzymejs.github.io/enzyme/) |
 | ES6 transpiler                  | [Babel](https://babeljs.io/) |
 | Module bundler                  | [Rollup](https://rollupjs.org) |
-| Styled UI components            | [React Bootstrap](https://react-bootstrap.github.io/), [Material UI](https://material-ui.com/) |
 | Server-side rendering           | [Node.js](https://nodejs.org/en/) |
 
