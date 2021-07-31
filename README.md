@@ -1,13 +1,8 @@
 # Flask-React
 
-Flask-React is the missing batteries included full stack Single Page App (SPA) meta-framework for Python and JavaScript based on the [Flask](http://flask.pocoo.org) and [React](http://reactjs.org) libraries.  
+Flask-React is the missing batteries included full stack Single Page App (SPA) meta-framework for Python and JavaScript based on the [Flask](http://flask.pocoo.org) and [React](http://reactjs.org) libraries.  It's currently just a list of packages.
 
-There are two components: 
-
-* Flask Batteries Included (backend) - a list of packages that replicate all or almost all of the functionality of the popular Django framework when using Flask, plus some additional functionality
-* React Batteries Included (frontend) - a list of packages that provides a cohesive framework experience when using React
-
-## Flask Batteries Included
+## Backend (Flask)
 
 | Component                       | Library |
 | ------------------------------- | ------- |
@@ -33,7 +28,7 @@ There are two components:
 | Task runner                     | [Celery](http://celeryproject.org), [Flower](https://flower.readthedocs.io) |
 | Web server                      | [gunicorn](http://gunicorn.org) |
 
-## React Batteries Included
+## Frontend (React)
 
 | Component                       | Library |
 | ------------------------------- | ------- |
